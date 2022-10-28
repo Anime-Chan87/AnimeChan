@@ -2,10 +2,10 @@
 
 
 # NOTE
-*pihak team developer dan team aine tidak beroperasi kembali karena script ini di perjual belikan*
+*pihak team developer dan team AnimeChan tidak beroperasi kembali karena script ini di perjual belikan*
 
 <p align="center">
-<img src="https://telegra.ph/file/a33a0742bd82075087684.jpg" alt="Chika-Md" width="100"/>
+<img src="https://telegra.ph/file/fe9d7f755820e0026a49d.jpg" alt="AnimeChan" width="100"/>
 
 
 </p>
