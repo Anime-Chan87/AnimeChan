@@ -1,5 +1,4 @@
-# Aine-MD
-
+# Anime-Chan 
 
 # NOTE
 *pihak team developer dan team AnimeChan tidak beroperasi kembali karena script ini di perjual belikan*
