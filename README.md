@@ -5,9 +5,10 @@
 *pihak team developer dan team aine tidak beroperasi kembali karena script ini di perjual belikan*
 
 <p align="center">
-	<https://telegra.ph/file/fe9d7f755820e0026a49d.jpg" width="35%" style="margin-left: auto;margin-right: auto;display: block;">
-</p>
+<img src="https://telegra.ph/file/a33a0742bd82075087684.jpg" alt="Chika-Md" width="100"/>
 
+
+</p>
 This script is free, if caught sold, this script will be deleted immediately.
 Don't forget to follow my github
 
