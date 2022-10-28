@@ -5,7 +5,7 @@
 *pihak team developer dan team aine tidak beroperasi kembali karena script ini di perjual belikan*
 
 <p align="center">
-	<https://telegra.ph/file/fe9d7f755820e0026a49d.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
+	<https://telegra.ph/file/fe9d7f755820e0026a49d.jpg" width="35%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
 
 This script is free, if caught sold, this script will be deleted immediately.
